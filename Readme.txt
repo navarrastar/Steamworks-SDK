@@ -70,7 +70,7 @@ ISteamApps
 
 
 ----------------------------------------------------------------
-v1.59 8th February 2024
+v1.59 9th February 2024
 ----------------------------------------------------------------
 General
 * Added new initialization method, SteamAPI_InitFlat
